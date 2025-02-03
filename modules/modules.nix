@@ -56,6 +56,7 @@ let
     ./programs/aerospace.nix
     ./programs/afew.nix
     ./programs/alacritty.nix
+    ./programs/alejandra.nix
     ./programs/alot.nix
     ./programs/antidote.nix
     ./programs/aria2.nix
