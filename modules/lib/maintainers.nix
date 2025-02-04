@@ -653,10 +653,10 @@
     github = "ckgxrg-salt";
     githubId = 165614491;
   };
-	vaisriv = {
-		name = "vaisriv";
-		email = "vai.sriv@icloud.org";
-		github = "vaisriv";
-		githubId = 46390109;
-	};
+  vaisriv = {
+    name = "vaisriv";
+    email = "vai.sriv@icloud.org";
+    github = "vaisriv";
+    githubId = 46390109;
+  };
 }

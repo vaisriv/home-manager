@@ -56,7 +56,6 @@ let
     ./programs/aerospace.nix
     ./programs/afew.nix
     ./programs/alacritty.nix
-    ./programs/alejandra.nix
     ./programs/alot.nix
     ./programs/antidote.nix
     ./programs/aria2.nix
@@ -82,6 +81,7 @@ let
     ./programs/cava.nix
     ./programs/cavalier.nix
     ./programs/chromium.nix
+    ./programs/clipse.nix
     ./programs/cmus.nix
     ./programs/command-not-found/command-not-found.nix
     ./programs/comodoro.nix
